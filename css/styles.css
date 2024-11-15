@@ -1,0 +1,28 @@
+body {
+    color: white !important;
+    background-color: black !important;
+}
+
+div {
+    text-align: center;
+}
+button {
+    height: 2.5em;
+    width: 5.5em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.start-btn {
+    background-color: green;
+}
+
+.pause-btn {
+    background-color: yellow;
+}   
+
+.reset-btn {
+    background-color: red;
+}
