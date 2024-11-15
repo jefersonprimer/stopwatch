@@ -10,6 +10,7 @@
    git clone https://github.com/jefersonprimer/stopwatch.git
 
 2. **Entre na pasta do projeto**
+   ```bash
     cd stopwatch
 
 
