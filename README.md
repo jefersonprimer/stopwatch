@@ -1,16 +1,14 @@
 ##Image of Software
 ###Stopwatch
-![Logo do Projeto](./img/stopwatch.png)
+![Project Logo](./img/stopwatch.png)
 
-## Como clonar e rodar o projeto localmente
-1. **Clone o repositório**
+## How to clone and run the project locally
+1. **Clone the repository**
    
-   Use o comando abaixo no seu terminal para clonar o repositório:
+   Use the command below in your terminal to clone the repository:
    ```bash
    git clone https://github.com/jefersonprimer/stopwatch.git
 
-2. **Entre na pasta do projeto**
+2. **Enter the project folder**
    ```bash
-    cd stopwatch
-
-
+   cd stopwatch
