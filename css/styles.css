@@ -5,10 +5,15 @@ body {
 
 div {
     text-align: center;
+    margin-top: 15%;
 }
 button {
     height: 2.5em;
     width: 5.5em;
+}
+
+h1 {
+    font-size: 100px;
 }
 
 button:hover {

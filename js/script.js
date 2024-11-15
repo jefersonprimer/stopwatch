@@ -13,7 +13,7 @@ function lessOfTeen(digit) {
 
 function startBtn() {
   counter();
-  interval = setInterval(counter, 1000);
+  interval = setInterval(counter, 1);
 }
 
 function stopBtn() {
