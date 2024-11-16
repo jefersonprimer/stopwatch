@@ -1,5 +1,5 @@
-##Image of Software
-###Stopwatch
+<h1>Image of Software</h1>
+<h2>Stopwatch</h2>
 ![Project Logo](./img/stopwatch.png)
 
 ## How to clone and run the project locally
