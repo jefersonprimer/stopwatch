@@ -1,6 +1,6 @@
 <h1>Image of Software</h1>
 <h2>Stopwatch</h2>
-![Project Logo](./img/stopwatch.png)
+<img src="./img/stopwatch.png">
 
 ## How to clone and run the project locally
 1. **Clone the repository**
